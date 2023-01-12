@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const isProd = process.env.NODE_ENV === "production"
-const prodPath = isProd ? "/tsn-admin" : ""
+const prodPath = isProd && ""
 
 const nextConfig = {
   reactStrictMode: true,
@@ -18,7 +18,7 @@ const nextConfig = {
   },
   env: {
     linksPath: prodPath,
-    deploymentPath: prodPath
+    deploymentPath: prodPath,
   },
 }
 
