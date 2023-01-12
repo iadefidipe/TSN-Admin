@@ -1,0 +1,2 @@
+info  - Loaded env from C:\TSN-Project\TSN-Admin\.env
+> Ready on http://localhost:\\.\pipe\d5d4c5e9-57cf-42b7-bb88-3b0dafbaa720

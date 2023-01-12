@@ -1,0 +1,4 @@
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'yarn add sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+(node:14448) ExperimentalWarning: The Fetch API is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)

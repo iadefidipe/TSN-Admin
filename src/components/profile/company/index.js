@@ -1,0 +1,10 @@
+export { CompanyInformation } from "./CompanyInformation";
+export { OtherCompanyInformation } from "./OtherCompanyInformation";
+export { JobOpenings } from "./JobOpenings";
+export { HeaderCompany } from "./HeaderCompany";
+export { About } from "./About";
+export { JobOpeningsCompany } from "./JobOpeningsCompany";
+export { JobopeningsPage } from "./JobopeningsPage";
+export { JobOpeningSinglePage } from "./JobOpeningSinglePage";
+export { TalentsMatch } from "./TalentsMatch";
+export { SkillsBadge } from "./SkillsBadge";

@@ -1,0 +1,80 @@
+Invariant: failed to load static page {
+  "page": "/client/[detailID]",
+  "url": "/client/[id]?clientID=3",
+  "initUrl": "http://localhost:\\\\.\\pipe\\cf6a98b6-44ec-4631-b1c9-fca5ebd641de/tsn-admin/client/[id]?clientID=3"
+}
+MissingStaticPage [Error]: Failed to load static file for page: /client/[detailID] ENOENT: no such file or directory, open 'C:\TSN-Project\TSN-Admin\.next\server\pages\client\[detailID].html'
+    at C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\require.js:55:19
+    at async Promise.all (index 2)
+    at async Object.loadComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\load-components.js:53:49)
+    at async NextNodeServer.findPageComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\next-server.js:429:36)
+    at async NextNodeServer.renderPageComponent (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1130:24)
+    at async NextNodeServer.renderToResponse (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1162:36)
+    at async NextNodeServer.pipe (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:641:25)
+    at async Object.fn (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:508:21)
+    at async Router.execute (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\router.js:213:36)
+    at async NextNodeServer.run (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:619:29)
+Invariant: failed to load static page {
+  "page": "/candidates",
+  "url": "/candidates",
+  "initUrl": "http://localhost:\\\\.\\pipe\\cf6a98b6-44ec-4631-b1c9-fca5ebd641de/tsn-admin/candidates"
+}
+MissingStaticPage [Error]: Failed to load static file for page: /candidates ENOENT: no such file or directory, open 'C:\TSN-Project\TSN-Admin\.next\server\pages\candidates.html'
+    at C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\require.js:55:19
+    at async Promise.all (index 2)
+    at async Object.loadComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\load-components.js:53:49)
+    at async NextNodeServer.findPageComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\next-server.js:429:36)
+    at async NextNodeServer.renderPageComponent (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1130:24)
+    at async NextNodeServer.renderToResponse (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1152:32)
+    at async NextNodeServer.pipe (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:641:25)
+    at async Object.fn (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:508:21)
+    at async Router.execute (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\router.js:213:36)
+    at async NextNodeServer.run (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:619:29)
+Invariant: failed to load static page {
+  "page": "/candidates",
+  "url": "/candidates",
+  "initUrl": "http://localhost:\\\\.\\pipe\\cf6a98b6-44ec-4631-b1c9-fca5ebd641de/tsn-admin/candidates"
+}
+MissingStaticPage [Error]: Failed to load static file for page: /candidates ENOENT: no such file or directory, open 'C:\TSN-Project\TSN-Admin\.next\server\pages\candidates.html'
+    at C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\require.js:55:19
+    at async Promise.all (index 2)
+    at async Object.loadComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\load-components.js:53:49)
+    at async NextNodeServer.findPageComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\next-server.js:429:36)
+    at async NextNodeServer.renderPageComponent (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1130:24)
+    at async NextNodeServer.renderToResponse (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1152:32)
+    at async NextNodeServer.pipe (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:641:25)
+    at async Object.fn (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:508:21)
+    at async Router.execute (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\router.js:213:36)
+    at async NextNodeServer.run (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:619:29)
+Invariant: failed to load static page {
+  "page": "/",
+  "url": "/",
+  "initUrl": "http://localhost:\\\\.\\pipe\\cf6a98b6-44ec-4631-b1c9-fca5ebd641de/tsn-admin"
+}
+MissingStaticPage [Error]: Failed to load static file for page: / ENOENT: no such file or directory, open 'C:\TSN-Project\TSN-Admin\.next\server\pages\index.html'
+    at C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\require.js:55:19
+    at async Promise.all (index 2)
+    at async Object.loadComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\load-components.js:53:49)
+    at async NextNodeServer.findPageComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\next-server.js:429:36)
+    at async NextNodeServer.renderPageComponent (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1130:24)
+    at async NextNodeServer.renderToResponse (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1152:32)
+    at async NextNodeServer.pipe (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:641:25)
+    at async Object.fn (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:508:21)
+    at async Router.execute (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\router.js:213:36)
+    at async NextNodeServer.run (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:619:29)
+Invariant: failed to load static page {
+  "page": "/auth/login",
+  "url": "/auth/login",
+  "initUrl": "http://localhost:\\\\.\\pipe\\cf6a98b6-44ec-4631-b1c9-fca5ebd641de/tsn-admin/auth/login"
+}
+MissingStaticPage [Error]: Failed to load static file for page: /auth/login ENOENT: no such file or directory, open 'C:\TSN-Project\TSN-Admin\.next\server\pages\auth\login.html'
+    at C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\require.js:55:19
+    at async Promise.all (index 2)
+    at async Object.loadComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\load-components.js:53:49)
+    at async NextNodeServer.findPageComponents (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\next-server.js:429:36)
+    at async NextNodeServer.renderPageComponent (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1130:24)
+    at async NextNodeServer.renderToResponse (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:1152:32)
+    at async NextNodeServer.pipe (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:641:25)
+    at async Object.fn (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:508:21)
+    at async Router.execute (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\router.js:213:36)
+    at async NextNodeServer.run (C:\TSN-Project\TSN-Admin\node_modules\next\dist\server\base-server.js:619:29)
